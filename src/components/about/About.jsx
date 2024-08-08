@@ -27,7 +27,7 @@ const About = () => {
             <article className='about__card bg-variant'>
               <BiBriefcaseAlt className='about__icon'/>
               <h5>Completed</h5>
-              <small>4+ Projects</small>
+              <small>5+ Projects</small>
             </article>
             <article className='about__card bg-variant'>
               <BiSupport className='about__icon'/>
