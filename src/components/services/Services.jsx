@@ -63,9 +63,10 @@ const Services = () => {
                 <li className='services__modal-service'>
                   <p className='services__modal-info'><FaCheck className='services__modal-icon'/>Payment gateway integration.</p>
                 </li>
-                {/* <li className='services__modal-service'>
-                  <p className='services__modal-info'><FaCheck />Mobile-first design.</p>
-                </li> */}
+                <li className='services__modal-service'>
+                  <p className='services__modal-info'><FaCheck className='services__modal-icon'/>
+                  Page Actions Implementations.</p>
+                </li>
               </ul>
             </div>
           </div>
