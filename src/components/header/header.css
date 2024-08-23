@@ -14,6 +14,11 @@ header{
     font-size: 0.92rem;
 }
 
+.header__container .me{
+    background-color: #fff;
+    /* border: none; */
+}
+
 
 
 
@@ -123,7 +128,7 @@ header{
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 0rem 1.5rem 1.5rem 1.5rem;
 }
 
 .scroll__down{

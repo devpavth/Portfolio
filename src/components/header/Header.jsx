@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './header.css';
 import CTA from './CTA';
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me.png';
 import HeaderSocial from './HeaderSocials';
 import { FaMouse } from "react-icons/fa";
 import { MdOutlineDarkMode, MdOutlineLightMode } from 'react-icons/md';
