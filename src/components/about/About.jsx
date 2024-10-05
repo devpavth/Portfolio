@@ -36,11 +36,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am a Software Engineer developing scalable and responsive web and mobile applications. 
+            I am a Software Engineer specializing in developing scalable and responsive web and mobile applications. 
           </p>
           <p>
-            My interests lie in Full Stack Software Development and Web Development. I enjoy creating 
-          dynamic and responsive web applications that provide a seamless user experience. 
+            My interests lie in Full Stack Software Development and Web Development. I enjoy building  
+          dynamic and responsive web applications that deliver a seamless user experience. 
           </p>
           {/* <p>
           I am eager to apply my skills and knowledge to real-world projects and contribute to innovative solutions. My goal is to become a 
