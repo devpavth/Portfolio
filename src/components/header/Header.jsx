@@ -14,7 +14,7 @@ const Header = () => {
     "Backend",
     "Python",
     "Tech Savvy",
-    "Java",
+    "React",
     "MySQL",
     "Responsive Design",
   ];

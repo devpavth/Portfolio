@@ -19,6 +19,45 @@ const Experience = () => {
             <div className='qualification__data'>
               <div>
                 <h3 className='qualification__title'>
+                  Software Engineer
+                </h3>
+                <span className='qualification__subtitle'>
+                  Iwin Born to Win Enterprises Pvt. Ltd | Internship 
+                </span>
+                <div className='qualification__calendar'>
+                  <IoCalendarClearOutline className='qualification__calendar-icon'/> 2024 - 2024
+                </div>
+              </div>
+              <div>
+                <span className='qualification__rounder'></span>
+                <span className='qualification__line'></span>
+              </div>
+              
+            </div>
+
+            <div className='qualification__data'>
+              <div></div>
+              <div>
+                <span className='qualification__rounder'></span>
+                <span className='qualification__line'></span>
+              </div>
+              <div>
+                <h3 className='qualification__title'>
+                  Front End Developer 
+                </h3>
+                <span className='qualification__subtitle'>
+                  ParkQwik · Internship 
+                </span>
+                <div className='qualification__calendar'>
+                  <IoCalendarClearOutline className='qualification__calendar-icon'/> 2024 - 2024
+                </div>
+              </div>
+              
+            </div>
+
+            <div className='qualification__data'>
+              <div>
+                <h3 className='qualification__title'>
                   J.P. Morgan - Software Engineering Job Simulation
                 </h3>
                 <span className='qualification__subtitle'>

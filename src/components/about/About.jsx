@@ -36,7 +36,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am an aspiring developer passionate about programming and developing websites. 
+            I am a Software Engineer developing scalable and responsive web and mobile applications. 
           </p>
           <p>
             My interests lie in Full Stack Software Development and Web Development. I enjoy creating 

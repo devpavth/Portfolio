@@ -43,7 +43,31 @@ const skills = () => {
                         <TbRosetteDiscountCheck className='skills__details-icon'/>
                         <div>
                         <h4>React</h4>
-                        <small className='text-light'>Basic</small></div>
+                        <small className='text-light'>Intermediate</small></div>
+                    </article>
+                    <article className='skills__details'>
+                        <TbRosetteDiscountCheck className='skills__details-icon'/>
+                        <div>
+                        <h4>React Native</h4>
+                        <small className='text-light'>Intermediate</small></div>
+                    </article>
+                    <article className='skills__details'>
+                        <TbRosetteDiscountCheck className='skills__details-icon'/>
+                        <div>
+                        <h4>Angular</h4>
+                        <small className='text-light'>Intermediate</small></div>
+                    </article>
+                    <article className='skills__details'>
+                        <TbRosetteDiscountCheck className='skills__details-icon'/>
+                        <div>
+                        <h4>TypeScript</h4>
+                        <small className='text-light'>Intermediate</small></div>
+                    </article>
+                    <article className='skills__details'>
+                        <TbRosetteDiscountCheck className='skills__details-icon'/>
+                        <div>
+                        <h4>Ionic</h4>
+                        <small className='text-light'>Intermediate</small></div>
                     </article>
                     <article className='skills__details'>
                         <TbRosetteDiscountCheck className='skills__details-icon'/>
@@ -84,8 +108,20 @@ const skills = () => {
                     <article className='skills__details'>
                         <TbRosetteDiscountCheck className='skills__details-icon'/>
                         <div>
-                        <h4>PHP</h4>
-                        <small className='text-light'>Basic</small></div>
+                        <h4>Node.js</h4>
+                        <small className='text-light'>Intermediate</small></div>
+                    </article>
+                    <article className='skills__details'>
+                        <TbRosetteDiscountCheck className='skills__details-icon'/>
+                        <div>
+                        <h4>Express.js</h4>
+                        <small className='text-light'>Intermediate</small></div>
+                    </article>
+                    <article className='skills__details'>
+                        <TbRosetteDiscountCheck className='skills__details-icon'/>
+                        <div>
+                        <h4>MongoDB</h4>
+                        <small className='text-light'>Intermediate</small></div>
                     </article>
                     <article className='skills__details'>
                         <TbRosetteDiscountCheck className='skills__details-icon'/>
