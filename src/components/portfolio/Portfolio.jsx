@@ -11,36 +11,43 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'SHOPSWIFT | E-Commerce Website | EFFORTLESS E-COMMERCE, ONE SWIFT CLICK AT A TIME',
-    github: 'https://github.com/devpavth/',
+    github: 'https://github.com/devpavth/ShopSwift',
     demo: "https://shopswift-tbzv.onrender.com/"
   },
   {
     id: 2,
     image: IMG2,
     title: 'VIBIFYRIFT | A MUSIC STREAMING PLATFORM REDEFINING MUSIC DISCOVERY AND ENGAGEMENT',
-    github: 'https://github.com/devpavth/',
+    github: 'https://github.com/devpavth/VibifyRift',
     demo: "https://devpavth.github.io/VibifyRift/"
   },
   {
     id: 3,
     image: IMG3,
     title: 'Pong Game',
-    github: 'https://github.com/devpavth/',
+    github: 'https://github.com/devpavth/Pong-Game',
     demo: "https://github.com/devpavth/Pong-Game"
   },
   {
     id: 4,
     image: IMG4,
     title: 'Coffee Shop Website',
-    github: 'https://github.com/devpavth/',
+    github: 'https://github.com/devpavth/CoffeeShop',
     demo: "https://devpavth.github.io/CoffeeShop/"
   },
   {
     id: 5,
     image: IMG5,
     title: 'Travel Booking Website',
-    github: 'https://github.com/devpavth/',
+    github: 'https://github.com/devpavth/Travel-in-pentavago',
     demo: "https://devpavth.github.io/Travel-in-pentavago/"
+  },
+  {
+    id: 6,
+    image: IMG5,
+    title: 'React Internship project',
+    github: 'https://github.com/devpavth/ParkQwik-Home-Page-Project',
+    demo: "https://github.com/devpavth/ParkQwik-Home-Page-Project"
   }
 ]
 
