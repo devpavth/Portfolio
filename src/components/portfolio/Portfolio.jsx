@@ -5,6 +5,8 @@ import IMG2 from '../../assets/portfolio-2.png'
 import IMG3 from '../../assets/portfolio-3.png'
 import IMG4 from '../../assets/portfolio-5.png'
 import IMG5 from '../../assets/portfolio-6.png'
+import IMG6 from '../../assets/portfolio-8.png'
+import IMG7 from '../../assets/portfolio-9.png'
 
 const data = [
   {
@@ -44,10 +46,17 @@ const data = [
   },
   {
     id: 6,
-    image: IMG5,
+    image: IMG6,
     title: 'React Internship project',
     github: 'https://github.com/devpavth/ParkQwik-Home-Page-Project',
     demo: "https://github.com/devpavth/ParkQwik-Home-Page-Project"
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'React Native Internship project',
+    github: 'https://github.com/devpavth/ParkQwik-Mobile-UI-Intern-Project',
+    demo: "https://github.com/devpavth/ParkQwik-Mobile-UI-Intern-Project"
   }
 ]
 
