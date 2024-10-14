@@ -7,6 +7,7 @@ import IMG4 from '../../assets/portfolio-5.png'
 import IMG5 from '../../assets/portfolio-6.png'
 import IMG6 from '../../assets/portfolio-8.png'
 import IMG7 from '../../assets/portfolio-9.png'
+import IMG8 from '../../assets/portfolio-10.jpg'
 
 const data = [
   {
@@ -57,6 +58,13 @@ const data = [
     title: 'React Native Internship project',
     github: 'https://github.com/devpavth/ParkQwik-Mobile-UI-Intern-Project',
     demo: "https://github.com/devpavth/ParkQwik-Mobile-UI-Intern-Project"
+  },
+  {
+    id: 7,
+    image: IMG8,
+    title: 'Real time Chat Application using socket.io and MERN Stack',
+    github: 'https://github.com/devpavth/ChatApp-using-socket.io',
+    demo: "https://pavitech.wistia.com/medias/ujllbeprxc"
   }
 ]
 
