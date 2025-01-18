@@ -14,8 +14,8 @@ const Header = () => {
     "Backend",
     "Python",
     "Tech Savvy",
+    "Angular",
     "React",
-    "MySQL",
     "Responsive Design",
   ];
   const [currentTextIndex, setCurrentTextIndex] = useState(0);
@@ -71,7 +71,7 @@ const Header = () => {
               <h5>Hello I'm</h5>
               <h1>Pavithradevi</h1>
               <h5 className="text-light">
-                Aspiring Developer | <span className="typing-text">{displayedText}</span>
+                Software Developer | <span className="typing-text">{displayedText}</span>
               </h5>
               <CTA />
               <HeaderSocial />
