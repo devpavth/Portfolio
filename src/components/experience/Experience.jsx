@@ -16,6 +16,27 @@ const Experience = () => {
         </div> */}
         <div className='qualification__sections'>
           <div className='qualification__content'>
+
+          <div className='qualification__data'>
+              <div></div>
+              <div>
+                <span className='qualification__rounder'></span>
+                <span className='qualification__line'></span>
+              </div>
+              <div>
+                <h3 className='qualification__title'>
+                  Front End Developer 
+                </h3>
+                <span className='qualification__subtitle'>
+                  Cloute Technologies Private Limited 
+                </span>
+                <div className='qualification__calendar'>
+                  <IoCalendarClearOutline className='qualification__calendar-icon'/> 2024 - 2025
+                </div>
+              </div>
+              
+            </div>
+
             <div className='qualification__data'>
               <div>
                 <h3 className='qualification__title'>
